@@ -16,7 +16,7 @@ I'm a Data Engineer at Xebia, working across the Microsoft Azure data platform �
 
 My work spans the full data engineering lifecycle: building ETL/ELT pipelines, integrating data from multiple source systems, structuring data warehouses, and processing large datasets to support analytics and BI teams. Lately, a good chunk of that has been building **cloud data platform migration tooling** — SQL transpilers and framework tooling that automate warehouse migrations across Redshift, Snowflake, Synapse, Fabric, Databricks, Oracle, and BigQuery.
 
-I hold a B.Tech in Artificial Intelligence, which shapes how I approach data engineering — not just moving data, but structuring and processing it with downstream ML and analytics use cases in mind.
+I hold a B.Tech in Artificial Intelligence and Data Science, which shapes how I approach data engineering — not just moving data, but structuring and processing it with downstream ML and analytics use cases in mind.
 
 - 🔭 Currently building migration and transpilation tooling for the Microsoft Fabric / Databricks ecosystem
 - 🌱 Currently sharpening AI/ML fundamentals — recently completed the **Claude Certified Associate – Foundations** certification
