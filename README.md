@@ -1,56 +1,115 @@
-![Banner Image](https://example.com/banner.gif)
+<div align="center">
 
-# Hello, I'm Suryadev Singh 👋
+# Hi, I'm Suryadev Singh 👋
 
-### Passionate Python Developer | ML Enthusiast | Web Developer
+### Data Engineer @ [Xebia](https://www.xebia.com/) · Azure Data Platform · Microsoft Fabric · Databricks · PySpark
 
-- 🔭 I’m currently working on **Machine Learning Projects**
-- 🌱 I’m currently learning **Deep Learning & AI**
-- 👯 I’m looking to collaborate on **AI & DS Projects**
-- ⚡ Fun fact: I love creating innovative web experiences.
+📍 Jaipur, Rajasthan, India &nbsp;|&nbsp; 📫 [suryarathore2345@gmail.com](mailto:suryarathore2345@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/suryadev-sing-05s)
 
----
-
-### 🛠️ Skills
-
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-%23F7DF1E.svg?style=for-the-badge&logo=databricks&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Flutter Flow](https://img.shields.io/badge/Flutter_Flow-%23000000.svg?style=for-the-badge&logo=flutterflow&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![StarUML](https://img.shields.io/badge/StarUML-%23A1B2C3.svg?style=for-the-badge&logo=staruml&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+</div>
 
 ---
 
-### 🚀 Projects
+### About
 
-- **[ATM Simulator](https://github.com/SuryadevSingh/atm-simulator)** - Simulates basic ATM functionalities for learning purposes.
-- **[Tic-Tac-Toe Game](https://github.com/SuryadevSingh/tic-tac-toe)** - A simple Tic-Tac-Toe game built with JavaScript.
-- **[Temperature Converter](https://github.com/SuryadevSingh/temperature-converter)** - Converts temperatures between Celsius, Fahrenheit, and Kelvin.
-- **[Portfolio](https://github.com/SuryadevSingh/portfolio)** - My personal portfolio showcasing my work and skills.
-- **[Menu Project (Summer Internship 2024)](https://github.com/SuryadevSingh/menu-project)** - A menu project developed during my summer internship at Linux World.
+I'm a Data Engineer at Xebia, working across the Microsoft Azure data platform — Data Factory for orchestration, Microsoft Fabric for unified data warehousing and lakehouse architecture, and Databricks for large-scale data processing with PySpark.
+
+My work spans the full data engineering lifecycle: building ETL/ELT pipelines, integrating data from multiple source systems, structuring data warehouses, and processing large datasets to support analytics and BI teams. Lately, a good chunk of that has been building **cloud data platform migration tooling** — SQL transpilers and framework tooling that automate warehouse migrations across Redshift, Snowflake, Synapse, Fabric, Databricks, Oracle, and BigQuery.
+
+I hold a B.Tech in Artificial Intelligence, which shapes how I approach data engineering — not just moving data, but structuring and processing it with downstream ML and analytics use cases in mind.
+
+- 🔭 Currently building migration and transpilation tooling for the Microsoft Fabric / Databricks ecosystem
+- 🌱 Currently sharpening AI/ML fundamentals — recently completed the **Claude Certified Associate – Foundations** certification
+- 💬 Happy to connect with other data engineers, cloud architects, and anyone working across Azure or Databricks
+- ⚡ B.Tech in Artificial Intelligence, Arya College of Engineering (2022 – 2026)
+
+---
+
+### 🛠️ Tech Stack
+
+**Cloud & Data Platform**
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-2CA01C?style=for-the-badge&logo=microsoft&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**Languages & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tooling I build with**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📜 Certifications
+
+- **Microsoft Certified: Fabric Data Engineer Associate**
+- **AWS Certified Cloud Practitioner**
+- **Claude Certified Associate – Foundations**
+- **Python Essentials 1**
+- **Introduction to MongoDB** (for Students)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| **[Universal-SQL-Transpiler](https://github.com/Suryarathore2345/Universal-SQL-Transpiler)** | Converts SQL DDL between 8 platforms — Redshift, Snowflake, SQL Server, Synapse, Fabric DW, Databricks, Oracle, BigQuery. FastAPI + React + Monaco Editor. |
+| **[Redshift-Fabric-Transpiler](https://github.com/Suryarathore2345/Redshift-Fabric-Transpiler)** | Converts Amazon Redshift SQL DDL into Microsoft Fabric T-SQL compatible DDL — DDL conversion, type/function mapping, and migration risk scoring for seamless warehouse migration. |
+| **[dbx-migrator](https://github.com/Suryarathore2345/dbx-migrator)** | Cross-cloud Databricks migration framework for transferring workspaces, notebooks, jobs, clusters, and pipelines across tenants and cloud platforms (AWS, Azure). |
+| **[Fabric-Toolkit](https://github.com/Suryarathore2345/Fabric-Toolkit)** | Open-source collection of reusable Microsoft Fabric tools, accelerators, SQL scripts, notebooks, and best practices for modern data platforms. |
+| **[Databricks-Toolkit](https://github.com/Suryarathore2345/Databricks-Toolkit)** | Notebook-based toolkit of reusable Databricks utilities and accelerators. |
+| **[claude-certification-practice-hub](https://github.com/Suryarathore2345/claude-certification-practice-hub)** | Self-contained practice hub for Claude certification mock exams, with independent Practice and Timed exam modes. [Live demo →](https://suryarathore2345.github.io/claude-certification-practice-hub/) |
+| **[ATM_FRAUD_DETECTION](https://github.com/Suryarathore2345/ATM_FRAUD_DETECTION)** | Machine learning project for detecting fraudulent ATM transactions. |
+
+---
+
+### 💼 Experience
+
+**Xebia** — *Junior Consultant*, May 2026 – Present
+Data Engineering team, working across Azure Data Factory, Microsoft Fabric, and Databricks — building and maintaining data pipelines, warehousing solutions, and migration tooling (including a Redshift-to-Fabric SQL transpiler used for migration risk scoring).
+
+**Xebia** — *Apprentice*, May 2025 – April 2026
+Built and optimized ETL/ELT pipelines on Azure (ADF, Fabric, Databricks) for analytics and BI reporting; designed multi-source data integration workflows with PySpark and Python. Apprenticeship converted into a full-time Junior Consultant role.
+
+**LinuxWorld Informatics Pvt Ltd** — *Intern*, Jul 2024 – Sep 2024
+Summer internship in Generative AI and Machine Learning — structured training plus hands-on project work applying GenAI/ML concepts to [StudPath](https://github.com/Suryarathore2345/StudPath).
+
+**Learn and Build** — *Intern*, Aug 2023 – Sep 2023
+Hands-on robotics/embedded systems work — designed and built a line-following robot using Arduino IDE.
+
+---
+
+### 🎓 Education
+
+**Arya College of Engineering** — B.Tech, Artificial Intelligence (Sept 2022 – May 2026)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Suryadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuryadevSingh&show_icons=true&theme=radical)
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Suryarathore2345&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryarathore2345&layout=compact&theme=radical&hide_border=true" />
+</div>
 
 ---
 
-### 📫 Let's Connect
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SuryadevSingh)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SuryadevSingh)
+📫 Reach me at **suryarathore2345@gmail.com** or on **[LinkedIn](https://www.linkedin.com/in/suryadev-sing-05s)**
+
+</div>
