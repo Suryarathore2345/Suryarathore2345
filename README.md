@@ -77,37 +77,6 @@ I hold a B.Tech in Artificial Intelligence, which shapes how I approach data eng
 
 ---
 
-### 💼 Experience
-
-**Xebia** — *Junior Consultant*, May 2026 – Present
-Data Engineering team, working across Azure Data Factory, Microsoft Fabric, and Databricks — building and maintaining data pipelines, warehousing solutions, and migration tooling (including a Redshift-to-Fabric SQL transpiler used for migration risk scoring).
-
-**Xebia** — *Apprentice*, May 2025 – April 2026
-Built and optimized ETL/ELT pipelines on Azure (ADF, Fabric, Databricks) for analytics and BI reporting; designed multi-source data integration workflows with PySpark and Python. Apprenticeship converted into a full-time Junior Consultant role.
-
-**LinuxWorld Informatics Pvt Ltd** — *Intern*, Jul 2024 – Sep 2024
-Summer internship in Generative AI and Machine Learning — structured training plus hands-on project work applying GenAI/ML concepts to [StudPath](https://github.com/Suryarathore2345/StudPath).
-
-**Learn and Build** — *Intern*, Aug 2023 – Sep 2023
-Hands-on robotics/embedded systems work — designed and built a line-following robot using Arduino IDE.
-
----
-
-### 🎓 Education
-
-**Arya College of Engineering** — B.Tech, Artificial Intelligence (Sept 2022 – May 2026)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Suryarathore2345&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryarathore2345&layout=compact&theme=radical&hide_border=true" />
-</div>
-
----
-
 <div align="center">
 
 📫 Reach me at **suryarathore2345@gmail.com** or on **[LinkedIn](https://www.linkedin.com/in/suryadev-sing-05s)**
